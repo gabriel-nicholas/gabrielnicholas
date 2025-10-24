@@ -1,0 +1,1832 @@
+{
+  "SD": {
+    "Matematika": [
+      {
+        "question": "Hasil dari 15 + 25 adalah...",
+        "options": ["30", "35", "40", "45"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sebuah persegi memiliki sisi 5 cm. Berapa kelilingnya?",
+        "options": ["15 cm", "20 cm", "25 cm", "30 cm"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Angka 7 pada bilangan 7.890 menempati nilai...",
+        "options": ["Satuan", "Puluhan", "Ratusan", "Ribuan"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Berapa hasil dari 8 x 7?",
+        "options": ["48", "54", "56", "63"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bentuk pecahan dari 0.5 adalah...",
+        "options": ["1/2", "1/3", "1/4", "1/5"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pukul 09.00. Jarum panjang menunjuk ke angka...",
+        "options": ["3", "6", "9", "12"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Hasil dari 50 - 17 adalah...",
+        "options": ["23", "33", "37", "43"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Ada 30 permen dibagikan kepada 5 anak. Berapa permen yang didapat setiap anak?",
+        "options": ["4", "5", "6", "7"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Alat ukur yang tepat untuk mengukur berat badan adalah...",
+        "options": ["Penggaris", "Meteran", "Timbangan", "Jam"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "2 jam + 30 menit = ... menit",
+        "options": ["90 menit", "120 menit", "150 menit", "180 menit"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari 12 + 18 adalah...",
+        "options": ["20", "25", "30", "35"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sebuah persegi panjang memiliki panjang 6 cm dan lebar 4 cm. Berapa luasnya?",
+        "options": ["10 cm²", "20 cm²", "24 cm²", "30 cm²"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Angka 4 pada bilangan 4.567 menempati nilai...",
+        "options": ["Satuan", "Puluhan", "Ratusan", "Ribuan"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Berapa hasil dari 9 x 6?",
+        "options": ["45", "48", "54", "60"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bentuk pecahan dari 0.25 adalah...",
+        "options": ["1/2", "1/3", "1/4", "1/5"],
+        "correctAnswer": 2 // Jawaban yang benar C (1/4), indeks 2
+      },
+      {
+        "question": "Pukul 03.00. Jarum pendek menunjuk ke angka...",
+        "options": ["3", "6", "9", "12"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Hasil dari 45 - 19 adalah...",
+        "options": ["16", "26", "36", "46"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Ada 24 pensil dibagikan kepada 6 anak. Berapa pensil yang didapat setiap anak?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Alat ukur yang tepat untuk mengukur panjang meja adalah...",
+        "options": ["Timbangan", "Jam", "Penggaris", "Termometer"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "3 jam = ... menit",
+        "options": ["120 menit", "150 menit", "180 menit", "210 menit"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari 20 + 15 adalah...",
+        "options": ["25", "30", "35", "40"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sebuah segitiga memiliki alas 8 cm dan tinggi 5 cm. Berapa luasnya?",
+        "options": ["13 cm²", "20 cm²", "40 cm²", "80 cm²"],
+        "correctAnswer": 1 // L = 1/2 * a * t = 1/2 * 8 * 5 = 20
+      },
+      {
+        "question": "Angka 2 pada bilangan 12.345 menempati nilai...",
+        "options": ["Satuan", "Puluhan", "Ratusan", "Ribuan"],
+        "correctAnswer": 3 // Nilai tempat ribuan
+      },
+      {
+        "question": "Berapa hasil dari 7 x 8?",
+        "options": ["49", "56", "63", "70"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Bentuk desimal dari 3/4 adalah...",
+        "options": ["0.5", "0.6", "0.75", "0.8"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Pukul 06.00. Jarum panjang menunjuk ke angka...",
+        "options": ["3", "6", "9", "12"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Hasil dari 60 - 25 adalah...",
+        "options": ["25", "35", "45", "55"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Ada 42 buah apel dibagikan kepada 7 anak. Berapa apel yang didapat setiap anak?",
+        "options": ["5", "6", "7", "8"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Alat ukur yang tepat untuk mengukur waktu adalah...",
+        "options": ["Penggaris", "Timbangan", "Jam", "Meteran"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "1 jam + 45 menit = ... menit",
+        "options": ["45 menit", "60 menit", "105 menit", "120 menit"],
+        "correctAnswer": 2
+      }
+    ],
+    "IPA": [
+      {
+        "question": "Bagian tumbuhan yang berfungsi menyerap air dari tanah adalah...",
+        "options": ["Daun", "Batang", "Akar", "Bunga"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hewan yang bernapas dengan paru-paru adalah...",
+        "options": ["Ikan", "Katak dewasa", "Cacing", "Serangga"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Planet yang dikenal sebagai planet merah adalah...",
+        "options": ["Bumi", "Mars", "Venus", "Jupiter"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Proses perubahan air menjadi uap disebut...",
+        "options": ["Pembekuan", "Pencairan", "Penguapan", "Pengembunan"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Organ tubuh manusia yang berfungsi memompa darah adalah...",
+        "options": ["Hati", "Paru-paru", "Jantung", "Ginjal"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bahan yang dapat ditarik oleh magnet adalah...",
+        "options": ["Kayu", "Plastik", "Besi", "Kertas"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sumber energi utama di Bumi berasal dari...",
+        "options": ["Angin", "Matahari", "Air", "Batu bara"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Hewan yang mengalami metamorfosis sempurna adalah...",
+        "options": ["Kucing", "Kupu-kupu", "Ayam", "Ikan"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Cuaca yang ditandai dengan awan gelap dan hujan disebut...",
+        "options": ["Cerah", "Berawan", "Hujan", "Panas"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Tumbuhan membuat makanan sendiri melalui proses...",
+        "options": ["Respirasi", "Fotosintesis", "Transpirasi", "Polinasi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Alat pernapasan pada ikan adalah...",
+        "options": ["Paru-paru", "Insang", "Kulit", "Trakea"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Benda yang dapat menghantarkan panas dengan baik disebut...",
+        "options": ["Isolator", "Konduktor", "Radiator", "Konvektor"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Lapisan Bumi yang paling luar disebut...",
+        "options": ["Inti", "Mantel", "Kerak", "Atmosfer"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hewan pemakan tumbuhan disebut...",
+        "options": ["Karnivora", "Herbivora", "Omnivora", "Insektivora"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Cahaya matahari diuraikan menjadi warna-warni oleh...",
+        "options": ["Pelangi", "Awan", "Hujan", "Angin"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Organ pencernaan utama pada manusia adalah...",
+        "options": ["Mulut", "Usus", "Lambung", "Pankreas"],
+        "correctAnswer": 2 // Lambung dianggap utama setelah mulut
+      },
+      {
+        "question": "Gaya yang menyebabkan benda jatuh ke tanah adalah...",
+        "options": ["Gesek", "Pegas", "Gravitasi", "Magnet"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Siklus air melibatkan proses...",
+        "options": ["Penguapan dan kondensasi", "Pembakaran dan pendinginan", "Pemanasan dan pencairan", "Penggilingan dan penyaringan"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Tumbuhan yang berkembang biak dengan biji adalah...",
+        "options": ["Pakis", "Lumut", "Mangga", "Jahe"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bunyi dapat merambat melalui...",
+        "options": ["Ruang hampa", "Udara saja", "Zat padat, cair, dan gas", "Cahaya"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Planet terbesar di tata surya adalah...",
+        "options": ["Bumi", "Mars", "Jupiter", "Saturnus"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Proses perubahan uap menjadi air disebut...",
+        "options": ["Penguapan", "Pembekuan", "Pengembunan", "Pencairan"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Organ tubuh yang berfungsi menyaring darah adalah...",
+        "options": ["Hati", "Ginjal", "Jantung", "Paru-paru"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Bahan yang tidak dapat ditarik oleh magnet adalah...",
+        "options": ["Besi", "Nikel", "Kertas", "Kobalt"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sumber energi terbarukan adalah...",
+        "options": ["Batu bara", "Minyak bumi", "Angin", "Gas alam"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hewan yang mengalami metamorfosis tidak sempurna adalah...",
+        "options": ["Kupu-kupu", "Nyamuk", "Belalang", "Katak"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Cuaca yang ditandai dengan sinar matahari terik disebut...",
+        "options": ["Hujan", "Berawan", "Cerah", "Berangin"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Tumbuhan membutuhkan ... untuk fotosintesis",
+        "options": ["Oksigen", "Karbon dioksida", "Hidrogen", "Nitrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Alat pernapasan pada serangga adalah...",
+        "options": ["Paru-paru", "Insang", "Trakea", "Kulit"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Benda yang tidak menghantarkan panas disebut...",
+        "options": ["Konduktor", "Isolator", "Radiator", "Konvektor"],
+        "correctAnswer": 1
+      }
+    ],
+    "Bahasa Indonesia": [
+      {
+        "question": "Kata yang benar ejaannya adalah...",
+        "options": ["Buku", "Bukuh", "Bukku", "Bukkuh"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Lawan kata dari 'besar' adalah...",
+        "options": ["Kecil", "Tinggi", "Panjang", "Lebar"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kalimat yang benar adalah...",
+        "options": ["Saya pergi ke sekolah.", "Saya pergi sekolah ke.", "Pergi saya ke sekolah.", "Ke sekolah pergi saya."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sinonim dari 'senang' adalah...",
+        "options": ["Gembira", "Sedih", "Marah", "Takut"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Huruf kapital digunakan di awal...",
+        "options": ["Nama orang", "Kata biasa", "Angka", "Simbol"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata ganti untuk 'saya' adalah...",
+        "options": ["Aku", "Kamu", "Dia", "Mereka"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Bacalah: 'Anak itu bermain bola.' Subjeknya adalah...",
+        "options": ["Anak itu", "Bermain", "Bola", "Itu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Tanda baca untuk akhir kalimat pernyataan adalah...",
+        "options": ["Titik (.)", "Tanya (?)", "Seru (!)", "Koma (,)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata yang berima dengan 'rumah' adalah...",
+        "options": ["Sumah", "Tanah", "Resah", "Basah"], // Rima yang lebih jelas
+        "correctAnswer": 1 // Atau bisa juga 2 atau 3
+      },
+      {
+        "question": "Cerita khayalan tentang hewan atau tumbuhan yang bisa bicara disebut...",
+        "options": ["Fabel", "Legenda", "Mitos", "Dongeng"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata 'mobil' termasuk kata...",
+        "options": ["Benda", "Sifat", "Keterangan", "Bilangan"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Lawan kata dari 'panas' adalah...",
+        "options": ["Dingin", "Hangat", "Sejuk", "Basah"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kalimat tanya yang benar adalah...",
+        "options": ["Siapa nama kamu?", "Nama siapa kamu.", "Kamu nama siapa!", "Siapa kamu nama."],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sinonim dari 'cepat' adalah...",
+        "options": ["Lekas", "Lambat", "Pelan", "Santai"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Huruf vokal adalah...",
+        "options": ["A, I, U, E, O", "B, C, D, F, G", "H, J, K, L, M", "N, P, Q, R, S"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Penulisan kata depan 'di' yang benar untuk tempat adalah...",
+        "options": ["Di pasar", "Dipasar", "Di Pasar", "dipasar"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Bacalah: 'Buku itu tebal.' Predikatnya adalah...",
+        "options": ["Tebal", "Buku itu", "Itu", "Buku"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Tanda baca untuk pertanyaan adalah...",
+        "options": ["Tanda tanya (?)", "Titik (.)", "Seru (!)", "Koma (,)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata yang berima dengan 'makan' adalah...",
+        "options": ["Jalan", "Minum", "Tidur", "Lari"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Puisi lama yang terdiri dari 4 baris dan bersajak a-b-a-b adalah...",
+        "options": ["Pantun", "Syair", "Gurindam", "Seloka"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata 'rumah' termasuk kata...",
+        "options": ["Benda", "Sifat", "Keterangan", "Bilangan"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Lawan kata dari 'tinggi' adalah...",
+        "options": ["Rendah", "Pendek", "Panjang", "Lebar"], // Pendek lebih cocok konteks orang/benda
+        "correctAnswer": 1
+      },
+      {
+        "question": "Kalimat perintah yang benar adalah...",
+        "options": ["Tutup pintu itu!", "Pintu itu tutup.", "Tutup pintu itu?", "Pintu tutup itu!"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sinonim dari 'indah' adalah...",
+        "options": ["Elok", "Jelek", "Buruk", "Rusak"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Huruf konsonan disebut juga huruf...",
+        "options": ["Mati", "Hidup", "Vokal", "Besar"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata sambung yang tepat: Saya suka apel ... jeruk.",
+        "options": ["dan", "atau", "tetapi", "karena"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Bacalah: 'Adik membaca buku cerita.' Objeknya adalah...",
+        "options": ["Buku cerita", "Adik", "Membaca", "Cerita"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Tanda baca untuk seruan atau perintah adalah...",
+        "options": ["Tanda seru (!)", "Titik (.)", "Tanya (?)", "Koma (,)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata yang berima dengan 'pagi' adalah...",
+        "options": ["Lari", "Sore", "Siang", "Malam"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Cerita panjang yang menceritakan kehidupan tokoh disebut...",
+        "options": ["Novel", "Cerpen", "Puisi", "Drama"],
+        "correctAnswer": 0
+      }
+    ],
+    "Bahasa Inggris": [
+      {
+        "question": "What is the color of the sky on a clear day?",
+        "options": ["Blue", "Green", "Red", "Yellow"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How do you say 'hello' in English?",
+        "options": ["Goodbye", "Hello", "Thank you", "Please"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What animal says 'meow'?",
+        "options": ["Dog", "Cat", "Bird", "Fish"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the opposite of 'big'?",
+        "options": ["Small", "Tall", "Fast", "Happy"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "How many fingers are on one hand?",
+        "options": ["Four", "Five", "Six", "Ten"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do you wear on your feet?",
+        "options": ["Hat", "Shoes", "Shirt", "Pants"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the capital of England?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What fruit is yellow and curved?",
+        "options": ["Apple", "Banana", "Orange", "Grape"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What day comes after Monday?",
+        "options": ["Sunday", "Tuesday", "Wednesday", "Friday"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the first letter of the alphabet?",
+        "options": ["A", "B", "C", "D"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What do you use to write on paper?",
+        "options": ["Pen", "Book", "Table", "Chair"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the opposite of 'hot'?",
+        "options": ["Cold", "Warm", "Cool", "Wet"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What animal can fly?",
+        "options": ["Dog", "Bird", "Fish", "Cat"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How do you spell 'dog'?",
+        "options": ["D-O-G", "C-A-T", "B-I-R-D", "F-I-S-H"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is your mother's husband called?",
+        "options": ["Brother", "Father", "Sister", "Uncle"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What color is grass?",
+        "options": ["Blue", "Green", "Red", "Yellow"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do you usually eat for breakfast?", // Pertanyaan lebih umum
+        "options": ["Rice", "Bread", "Noodles", "Fruit"],
+        "correctAnswer": 1 // Contoh jawaban umum
+      },
+      {
+        "question": "What is the number after ten?",
+        "options": ["Nine", "Eleven", "Twelve", "Thirteen"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is a baby dog called?",
+        "options": ["Kitten", "Puppy", "Calf", "Foal"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do you sit on?",
+        "options": ["Table", "Chair", "Bed", "Floor"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the opposite of 'happy'?",
+        "options": ["Sad", "Angry", "Excited", "Tired"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What month is Christmas in?",
+        "options": ["January", "December", "July", "April"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the sun?",
+        "options": ["Planet", "Star", "Moon", "Cloud"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many legs does a spider have?",
+        "options": ["Six", "Eight", "Four", "Ten"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the capital of the USA?",
+        "options": ["New York", "Washington D.C.", "Los Angeles", "Chicago"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do bees make?",
+        "options": ["Milk", "Honey", "Butter", "Cheese"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the opposite of 'old'?",
+        "options": ["Young", "New", "Big", "Small"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is a house for birds called?",
+        "options": ["Kennel", "Nest", "Stable", "Den"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What color are strawberries?",
+        "options": ["Blue", "Red", "Green", "Yellow"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What do you call a group of fish?",
+        "options": ["Herd", "School", "Flock", "Pack"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "SMP": {
+    "Matematika": [
+      {
+        "question": "Jika 2x + 4 = 10, maka nilai x adalah...",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Rumus luas lingkaran adalah...",
+        "options": ["π × r²", "2 × π × r", "π × d", "s × s"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Bentuk sederhana dari (a²)³ adalah...",
+        "options": ["a⁵", "a⁶", "a⁸", "a⁹"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teorema Pythagoras berlaku pada segitiga...",
+        "options": ["Sama sisi", "Sama kaki", "Lancip", "Siku-siku"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Hasil dari -5 + (-10) adalah...",
+        "options": ["-5", "5", "-15", "15"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Gradien garis y = 3x - 5 adalah...",
+        "options": ["3", "5", "-5", "1/3"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sebuah dadu dilempar, peluang muncul mata dadu ganjil adalah...",
+        "options": ["1/6", "1/3", "1/2", "2/3"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Volume balok dengan p=5, l=3, t=2 adalah...",
+        "options": ["10", "15", "30", "45"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Faktorisasi dari x² - 9 adalah...",
+        "options": ["(x-3)(x-3)", "(x+3)(x+3)", "(x-3)(x+3)", "(x-9)(x+1)"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Suku ke-5 dari barisan aritmatika 2, 5, 8, ... adalah",
+        "options": ["11", "14", "17", "20"],
+        "correctAnswer": 1 // 2 + (5-1)*3 = 2 + 12 = 14
+      },
+      {
+        "question": "Jika 3y - 6 = 12, maka nilai y adalah...",
+        "options": ["2", "4", "6", "8"],
+        "correctAnswer": 2 // 3y = 18 -> y = 6
+      },
+      {
+        "question": "Rumus keliling lingkaran adalah...",
+        "options": ["π × r²", "2 × π × r", "π × d²", "s × s"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Bentuk sederhana dari b⁴ / b² adalah...", // Menggunakan simbol ^
+        "options": ["b²", "b⁶", "b⁸", "b"], // Opsi D diubah
+        "correctAnswer": 0
+      },
+      {
+        "question": "Hasil dari 4 - (-7) adalah...",
+        "options": ["-3", "3", "11", "-11"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Persamaan garis melalui titik (0,2) dengan gradien 4 adalah...",
+        "options": ["y = 2x + 4", "y = 4x + 2", "y = 4x - 2", "y = 2x - 4"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Peluang muncul angka prima (2, 3, 5) pada dadu adalah...",
+        "options": ["1/6", "2/6", "3/6", "4/6"], // Lebih jelas
+        "correctAnswer": 2 // 3/6 = 1/2
+      },
+      {
+        "question": "Luas permukaan kubus dengan sisi 3 cm adalah...",
+        "options": ["18 cm²", "27 cm²", "36 cm²", "54 cm²"], // 6 * s^2
+        "correctAnswer": 3
+      },
+      {
+        "question": "Faktorisasi dari x² + 5x + 6 adalah...",
+        "options": ["(x+2)(x+3)", "(x+1)(x+6)", "(x-2)(x-3)", "(x-1)(x-6)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Suku ke-4 dari barisan geometri 3, 6, 12, ... adalah",
+        "options": ["18", "24", "36", "48"], // a * r^(n-1) = 3 * 2^3 = 24
+        "correctAnswer": 1
+      },
+      {
+        "question": "Nilai x dari persamaan 5x = 25 adalah...",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Volume bola dengan jari-jari r adalah...",
+        "options": ["π r²", "2 π r", "(4/3) π r³", "4 π r²"], // Perjelas 4/3
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bentuk sederhana dari (2a)³ adalah...", // Menggunakan simbol ^
+        "options": ["6a", "8a", "8a³", "6a³"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari -8 x 3 adalah...",
+        "options": ["-24", "24", "-11", "11"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Gradien garis y = -2x + 1 adalah...",
+        "options": ["1", "2", "-2", "-1"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Peluang muncul mata dadu lebih dari 4 (5, 6) adalah...",
+        "options": ["1/6", "2/6", "3/6", "4/6"], // Lebih jelas
+        "correctAnswer": 1 // 2/6 = 1/3
+      },
+      {
+        "question": "Luas segitiga dengan alas 10 cm dan tinggi 5 cm adalah...",
+        "options": ["15 cm²", "25 cm²", "50 cm²", "100 cm²"], // L=1/2*10*5=25
+        "correctAnswer": 1
+      },
+      {
+        "question": "Faktorisasi dari 2x² + 4x adalah...",
+        "options": ["2x(x+2)", "x(2x+4)", "2(x²+2x)", "4x(1/2x+1)"], // Opsi D diganti
+        "correctAnswer": 0 // 2x(x+2)
+      },
+      {
+        "question": "Beda dari barisan aritmatika 1, 4, 7, ... adalah",
+        "options": ["1", "2", "3", "4"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari 10 / (-2) adalah...",
+        "options": ["5", "-5", "8", "-8"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Rumus luas trapesium adalah...",
+        "options": ["1/2 x alas x tinggi", "1/2 x (jumlah sisi sejajar) x tinggi", "panjang x lebar", "π r²"], // Perjelas
+        "correctAnswer": 1
+      }
+    ],
+    "IPA": [
+      {
+        "question": "Satuan SI untuk gaya adalah...",
+        "options": ["Joule", "Newton", "Watt", "Ampere"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Unsur kimia dengan simbol O adalah...",
+        "options": ["Osmium", "Oksigen", "Oganesson", "Emas (Au)"], // Tambah simbol Au
+        "correctAnswer": 1
+      },
+      {
+        "question": "Proses pembelahan sel yang menghasilkan sel anak identik adalah...",
+        "options": ["Mitosis", "Meiosis", "Amitosis", "Fertilisasi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Hukum Newton I dikenal juga sebagai Hukum...",
+        "options": ["Aksi-reaksi", "Kelembaman (Inersia)", "Percepatan (F=ma)", "Gravitasi Universal"], // Perjelas
+        "correctAnswer": 1
+      },
+      {
+        "question": "Rumus kimia untuk air adalah...",
+        "options": ["H₂O₂", "H₂O", "H₂SO₄", "NH₃"], // Perjelas H2O2
+        "correctAnswer": 1
+      },
+      {
+        "question": "Organisme yang dapat membuat makanan sendiri melalui fotosintesis disebut...",
+        "options": ["Heterotrof", "Autotrof", "Dekomposer", "Konsumen"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Kecepatan cahaya dalam vakum kira-kira...",
+        "options": ["3 x 10⁸ m/s", "3 x 10⁶ m/s", "3 x 10¹⁰ m/s", "3 x 10⁴ m/s"], // Simbol ^
+        "correctAnswer": 0
+      },
+      {
+        "question": "Reaksi kimia yang melepaskan panas ke lingkungan disebut...",
+        "options": ["Endoterm", "Eksoterm", "Redoks", "Hidrolisis"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Proses pencernaan makanan secara mekanik dan kimiawi pertama kali terjadi di...",
+        "options": ["Usus halus", "Lambung", "Mulut", "Kerongkongan"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Gelombang bunyi termasuk gelombang mekanik karena...",
+        "options": ["Tidak perlu medium", "Merambat lurus", "Membutuhkan medium", "Memiliki frekuensi tinggi"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Atom terdiri dari inti atom (proton dan neutron) serta ... yang mengorbit inti.",
+        "options": ["Elektron", "Positron", "Foton", "Neutrino"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Contoh komponen abiotik dalam ekosistem adalah...",
+        "options": ["Tumbuhan", "Hewan", "Bakteri", "Air"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Alat untuk mengukur kuat arus listrik adalah...",
+        "options": ["Voltmeter", "Amperemeter", "Ohmmeter", "Wattmeter"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Larutan dengan pH < 7 bersifat...",
+        "options": ["Basa", "Asam", "Netral", "Garam"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Sel darah merah (eritrosit) mengandung hemoglobin yang berfungsi mengikat...",
+        "options": ["Oksigen", "Karbon dioksida", "Nutrisi", "Antibodi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Cermin cekung bersifat mengumpulkan cahaya atau...",
+        "options": ["Divergen", "Konvergen", "Reflektif", "Refraktif"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Unsur dengan nomor atom 1 adalah...",
+        "options": ["Helium (He)", "Hidrogen (H)", "Litium (Li)", "Oksigen (O)"], // Tambah simbol
+        "correctAnswer": 1
+      },
+      {
+        "question": "Dalam rantai makanan, tumbuhan berperan sebagai...",
+        "options": ["Konsumen I", "Produsen", "Konsumen II", "Dekomposer"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Rumus daya listrik (P) adalah...",
+        "options": ["P = V / R", "P = V x I", "P = I x R", "P = V / I"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Reaksi reduksi adalah...",
+        "options": ["Pelepasan elektron", "Penangkapan elektron", "Pelepasan oksigen", "Penangkapan hidrogen"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pertukaran gas oksigen dan karbon dioksida pada manusia terjadi di...",
+        "options": ["Trakea", "Alveolus (paru-paru)", "Bronkus", "Diafragma"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Satuan frekuensi adalah...",
+        "options": ["Hertz (Hz)", "Newton (N)", "Joule (J)", "Meter (m)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Ikatan kimia yang terjadi karena serah terima elektron adalah ikatan...",
+        "options": ["Ionik", "Kovalen", "Logam", "Hidrogen"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Perpindahan pelarut (misalnya air) melalui membran semipermeabel disebut...",
+        "options": ["Difusi", "Osmosis", "Transport aktif", "Imbibisi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Gaya gesek statis bekerja pada benda yang...",
+        "options": ["Meluncur", "Diam", "Menggelinding", "Terbang"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Molekul DNA berbentuk...",
+        "options": ["Heliks tunggal", "Heliks ganda", "Lembaran", "Bola"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Energi kinetik suatu benda dipengaruhi oleh...",
+        "options": ["Massa dan kecepatan", "Massa dan ketinggian", "Kecepatan dan ketinggian", "Massa saja"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Larutan sabun bersifat...",
+        "options": ["Asam", "Basa", "Netral", "Amfoter"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Hasil utama fotosintesis adalah glukosa dan...",
+        "options": ["Oksigen", "Karbon dioksida", "Air", "Nitrogen"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Transformator (trafo) step-up berfungsi untuk...",
+        "options": ["Menaikkan tegangan", "Menurunkan tegangan", "Menaikkan arus", "Menurunkan daya"],
+        "correctAnswer": 0
+      }
+    ],
+    "Bahasa Indonesia": [
+      {
+        "question": "Majas yang membandingkan suatu hal secara langsung tanpa kata pembanding (seperti, bak, laksana) adalah...",
+        "options": ["Simile", "Metafora", "Personifikasi", "Alegori"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Tahap pengenalan tokoh, latar, dan situasi awal dalam struktur teks cerpen disebut...",
+        "options": ["Orientasi", "Rangkaian Peristiwa", "Komplikasi", "Resolusi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Penulisan kata 'di' yang benar pada kalimat 'Buku itu ditaruh ... meja' adalah...",
+        "options": ["di", "di ", "di-", "Di"],
+        "correctAnswer": 0 // Spasi setelah di
+      },
+      {
+        "question": "Unsur intrinsik karya sastra yang merupakan rangkaian peristiwa cerita disebut...",
+        "options": ["Tema", "Penokohan", "Alur/Plot", "Latar"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Kalimat 'Bola ditendang oleh Adi' merupakan contoh kalimat...",
+        "options": ["Aktif", "Pasif", "Perintah", "Tanya"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Puisi baru yang terdiri dari 14 baris disebut...",
+        "options": ["Pantun", "Soneta", "Distikon", "Oktaf"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Akhiran '-wan' atau '-wati' berfungsi membentuk kata...",
+        "options": ["Sifat", "Benda (orang)", "Kerja", "Keterangan"],
+        "correctAnswer": 1 // Misal: wartawan, seniwati
+      },
+      {
+        "question": "Teks yang bertujuan meyakinkan pembaca untuk melakukan sesuatu disebut teks...",
+        "options": ["Deskripsi", "Eksposisi", "Argumentasi", "Persuasi"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Sinonim dari kata 'kredibel' adalah...",
+        "options": ["Dapat dipercaya", "Meragukan", "Terkenal", "Palsu"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Antonim dari kata 'protagonis' adalah...",
+        "options": ["Antagonis", "Tritagonis", "Figuran", "Narator"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Majas yang memberikan sifat manusia pada benda mati disebut...",
+        "options": ["Metafora", "Simile", "Personifikasi", "Hiperbola"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Bagian penutup dalam struktur pidato biasanya berisi...",
+        "options": ["Salam pembuka", "Isi utama", "Kesimpulan dan harapan", "Pendahuluan"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Kata baku dari 'apotik' adalah...",
+        "options": ["Apotek", "Apotik", "Aphotic", "Avotic"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai-nilai kehidupan yang terkandung dalam karya sastra merupakan unsur...",
+        "options": ["Intrinsik", "Ekstrinsik", "Formal", "Struktural"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Kalimat 'Ibu sedang memasak nasi' merupakan contoh kalimat...",
+        "options": ["Pasif", "Aktif", "Majemuk", "Inversi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Puisi lama yang setiap baitnya terdiri dari dua baris dan berisi nasihat disebut...",
+        "options": ["Pantun", "Syair", "Gurindam", "Seloka"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Awalan 'pe-' yang bermakna 'alat untuk' terdapat pada kata...",
+        "options": ["Pelari", "Penggaris", "Pemalas", "Pekerja"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teks yang berisi laporan hasil pengamatan atau penelitian secara objektif disebut teks...",
+        "options": ["Deskripsi", "Eksposisi", "Laporan Hasil Observasi", "Anekdot"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sinonim dari kata 'ambigu' adalah...",
+        "options": ["Jelas", "Pasti", "Bermakna ganda", "Tunggal"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Antonim dari kata 'kolektif' adalah...",
+        "options": ["Bersama", "Individual", "Kelompok", "Umum"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Majas yang menggunakan kata-kata berlebihan untuk memberi efek kuat adalah...",
+        "options": ["Litotes", "Hiperbola", "Eufemisme", "Ironi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Bagian surat resmi yang berisi identitas pengirim surat adalah...",
+        "options": ["Kop surat", "Nomor surat", "Isi surat", "Lampiran"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kata baku dari 'jadual' adalah...",
+        "options": ["Jadwal", "Jadual", "Schedule", "Skedul"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sudut pandang orang pertama dalam cerita ditandai dengan penggunaan kata ganti...",
+        "options": ["Aku, saya", "Dia, ia", "Kamu, engkau", "Mereka"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kalimat yang terdiri lebih dari satu klausa disebut kalimat...",
+        "options": ["Tunggal", "Majemuk", "Simpleks", "Nominal"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Puisi lama yang berasal dari Arab, bersajak a-a-a-a, dan berisi cerita atau nasihat adalah...",
+        "options": ["Pantun", "Syair", "Gurindam", "Karmina"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Akhiran '-nya' pada kata 'bukunya' berfungsi sebagai...",
+        "options": ["Kata ganti pemilik", "Penunjuk", "Pembentuk kata sifat", "Pembentuk kata kerja"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Teks yang menceritakan urutan kejadian secara kronologis disebut teks...",
+        "options": ["Narasi", "Deskripsi", "Eksposisi", "Prosedur"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Sinonim dari kata 'esensial' adalah...",
+        "options": ["Tidak penting", "Pokok", "Tambahan", "Opsional"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Antonim dari kata 'temporer' adalah...",
+        "options": ["Sementara", "Permanen", "Singkat", "Sesaat"],
+        "correctAnswer": 1
+      }
+    ],
+    "Bahasa Inggris": [
+      {
+        "question": "Choose the correct form: She _____ to school every day.",
+        "options": ["go", "goes", "going", "went"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the past tense of 'eat'?",
+        "options": ["Ate", "Eaten", "Eat", "Eating"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The word 'joyful' is a synonym for...",
+        "options": ["Sad", "Happy", "Angry", "Calm"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Complete the sentence: This book is _____. It belongs to me.",
+        "options": ["my", "mine", "me", "I"],
+        "correctAnswer": 1 // Possessive pronoun
+      },
+      {
+        "question": "The word 'courageous' means...",
+        "options": ["Afraid", "Brave", "Shy", "Timid"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Choose the correct spelling:",
+        "options": ["Tommorow", "Tomorrow", "Tomorow", "Tommorrou"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'fast' is...",
+        "options": ["Quick", "Slow", "Rapid", "Speedy"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Mount Everest is _____ than Mount Fuji.",
+        "options": ["high", "higher", "highest", "more high"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the plural of 'child'?",
+        "options": ["Childs", "Children", "Childes", "Childrens"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "I saw _____ amazing movie last night.",
+        "options": ["a", "an", "the", "some"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The past participle of 'go' is...",
+        "options": ["Went", "Gone", "Going", "Goed"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is a synonym for 'beautiful'?",
+        "options": ["Ugly", "Pretty", "Plain", "Average"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "He _____ football when I called him yesterday.",
+        "options": ["play", "played", "was playing", "plays"],
+        "correctAnswer": 2 // Past continuous
+      },
+      {
+        "question": "The natural world around us is called the...",
+        "options": ["Environment", "City", "Building", "Factory"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "It's important to _____ your teeth twice a day.",
+        "options": ["brush", "brash", "brosh", "brish"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "The antonym of 'rich' is...",
+        "options": ["Wealthy", "Poor", "Affluent", "Loaded"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Look! The cat _____ the tree.",
+        "options": ["climb", "climbs", "is climbing", "climbed"],
+        "correctAnswer": 2 // Present continuous
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Canberra", "Melbourne", "Perth"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The plural of 'mouse' is...",
+        "options": ["Mouses", "Mice", "Mousen", "Mousees"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "_____ your brother like playing guitar?",
+        "options": ["Do", "Does", "Is", "Are"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A person who is known by many people is...",
+        "options": ["Unknown", "Famous", "Ordinary", "Anonymous"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "She is the _____ student in our school.",
+        "options": ["smart", "smarter", "smartest", "most smart"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "How do you say 'thank you' in French?",
+        "options": ["Gracias", "Merci", "Danke", "Arigato"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'begin' is...",
+        "options": ["Start", "Finish", "Commence", "Launch"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "I _____ to the beach last summer.",
+        "options": ["go", "went", "am going", "goes"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "An 'adventure' is typically an...",
+        "options": ["Ordinary event", "Exciting or unusual experience", "Daily routine", "Boring task"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Choose the correct sentence: There _____ some water in the glass.",
+        "options": ["is", "are", "was", "were"],
+        "correctAnswer": 0 // Water is uncountable
+      },
+      {
+        "question": "A synonym for 'quick' is...",
+        "options": ["Slow", "Fast", "Lazy", "Tired"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The cat is sleeping _____ the sofa.",
+        "options": ["in", "on", "at", "under"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the past tense of 'buy'?",
+        "options": ["Buyed", "Bought", "Buying", "Buys"],
+        "correctAnswer": 1
+      }
+    ]
+  },
+  "SMA": {
+    "Matematika": [
+      {
+        "question": "Turunan pertama dari f(x) = 3x² + 2x - 1 adalah...",
+        "options": ["6x + 2", "3x + 2", "6x - 1", "3x² + 2"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai dari sin(90°) adalah...",
+        "options": ["0", "1/2", "1", "∞"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari ∫ 2x dx adalah...", // Notasi integral
+        "options": ["2x² + C", "x² + C", "2 + C", "x + C"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Jika ²log 8 = x, maka nilai x adalah...", // Notasi logaritma basis 2
+        "options": ["2", "3", "4", "1"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Diberikan matriks A = [[1, 2], [3, 4]]. Determinan matriks A adalah...",
+        "options": ["2", "-2", "10", "-10"], // (1*4) - (2*3) = 4 - 6 = -2
+        "correctAnswer": 1
+      },
+      {
+        "question": "Pusat lingkaran dengan persamaan x² + y² - 4x + 6y - 3 = 0 adalah...",
+        "options": ["(2, -3)", "(-2, 3)", "(4, -6)", "(-4, 6)"], // Pusat (-(-4)/2, -(6)/2)
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai dari 5! (5 faktorial) adalah...",
+        "options": ["25", "60", "100", "120"], // 5*4*3*2*1
+        "correctAnswer": 3
+      },
+      {
+        "question": "Nilai dari lim (x² - 4)/(x - 2) saat x mendekati 2 adalah...", // Notasi limit
+        "options": ["0", "2", "4", "Tak hingga"], // (x-2)(x+2)/(x-2) = x+2 -> 2+2=4
+        "correctAnswer": 2
+      },
+      {
+        "question": "Rumus identitas trigonometri untuk cos(A - B) adalah...",
+        "options": ["cosA cosB + sinA sinB", "cosA cosB - sinA sinB", "sinA cosB + cosA sinB", "sinA cosB - cosA sinB"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Modus dari data: 2, 3, 3, 4, 5, 5, 5, 6 adalah...",
+        "options": ["3", "4", "4.5", "5"], // Angka yang paling sering muncul
+        "correctAnswer": 3
+      },
+      {
+        "question": "Turunan pertama dari f(x) = sin(x) adalah...",
+        "options": ["cos(x)", "-sin(x)", "-cos(x)", "tan(x)"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai dari cos(0°) adalah...",
+        "options": ["0", "1/2", "1", "-1"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari ∫ cos(x) dx adalah...",
+        "options": ["sin(x) + C", "-sin(x) + C", "-cos(x) + C", "tan(x) + C"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Jika log₁₀ 100 = x (logaritma basis 10), maka nilai x adalah...",
+        "options": ["1", "2", "10", "100"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Matriks identitas ordo 2x2 adalah...",
+        "options": ["[[0,1],[1,0]]", "[[1,0],[0,1]]", "[[1,1],[1,1]]", "[[0,0],[0,0]]"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Jari-jari lingkaran dengan persamaan x² + y² = 25 adalah...",
+        "options": ["5", "25", "√5", "12.5"], // r^2 = 25
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai dari 4! (4 faktorial) adalah...",
+        "options": ["12", "24", "16", "20"], // 4*3*2*1
+        "correctAnswer": 1
+      },
+      {
+        "question": "Nilai dari lim sin(x)/x saat x mendekati 0 adalah...",
+        "options": ["0", "1", "∞", "Tidak ada"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Rumus identitas trigonometri untuk sin(A + B) adalah...",
+        "options": ["sinA cosB + cosA sinB", "sinA cosB - cosA sinB", "cosA cosB + sinA sinB", "cosA cosB - sinA sinB"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Median dari data: 1, 2, 3, 4, 5 adalah...",
+        "options": ["1", "2.5", "3", "3.5"], // Nilai tengah
+        "correctAnswer": 2
+      },
+      {
+        "question": "Turunan pertama dari f(x) = eˣ adalah...", // e^x
+        "options": ["eˣ", "ln(x)", "x eˣ⁻¹", "1"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai dari tan(45°) adalah...",
+        "options": ["0", "1/√2", "1", "√3"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Hasil dari ∫ (1/x) dx adalah...",
+        "options": ["x⁻² + C", "ln|x| + C", "eˣ + C", "1 + C"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Jika ³log 27 = x, maka nilai x adalah...", // log basis 3
+        "options": ["2", "3", "9", "1/3"], // 3^x = 27
+        "correctAnswer": 1
+      },
+      {
+        "question": "Invers dari matriks [[1,0],[0,1]] adalah...",
+        "options": ["[[0,1],[1,0]]", "[[1,0],[0,1]]", "[[-1,0],[0,-1]]", "Tidak ada"], // Invers matriks identitas adalah dirinya sendiri
+        "correctAnswer": 1
+      },
+      {
+        "question": "Persamaan garis singgung kurva y = x² di titik (1, 1) adalah...",
+        "options": ["y = 2x - 1", "y = x", "y = 2x + 1", "y = -2x + 3"], // y'=2x, m=2*1=2. y-1=2(x-1) -> y=2x-1
+        "correctAnswer": 0
+      },
+      {
+        "question": "Nilai dari 6! (6 faktorial) adalah...",
+        "options": ["120", "360", "720", "600"], // 6*5*4*3*2*1
+        "correctAnswer": 2
+      },
+      {
+        "question": "Nilai dari lim (1/x) saat x mendekati ∞ adalah...",
+        "options": ["0", "1", "∞", "-∞"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Rumus identitas trigonometri untuk cos(2A) (dalam cos) adalah...",
+        "options": ["2cos²A - 1", "1 - 2sin²A", "cos²A - sin²A", "2sinA cosA"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Rata-rata (mean) dari data: 10, 20, 30 adalah...",
+        "options": ["15", "20", "25", "60"], // (10+20+30)/3
+        "correctAnswer": 1
+      }
+    ],
+    "IPA": [ // Menggabungkan Fisika, Kimia, Biologi
+      {
+        "question": "Hukum Coulomb menyatakan bahwa gaya listrik antara dua muatan berbanding terbalik dengan...",
+        "options": ["Jarak", "Kuadrat jarak", "Muatan", "Kuadrat muatan"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Reaksi nuklir yang memecah inti atom berat menjadi inti yang lebih ringan disebut...",
+        "options": ["Fusi", "Fisi", "Peluruhan alfa", "Peluruhan beta"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Enzim amilase berfungsi memecah amilum (karbohidrat) menjadi...",
+        "options": ["Asam amino", "Glukosa", "Asam lemak", "Maltosa"], // Lebih spesifik ke maltosa dulu
+        "correctAnswer": 3
+      },
+      {
+        "question": "Dalam persamaan gelombang y = A sin(ωt - kx), ω adalah...",
+        "options": ["Frekuensi sudut", "Amplitudo", "Bilangan gelombang", "Panjang gelombang"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Senyawa organik yang memiliki gugus fungsional -OH disebut...",
+        "options": ["Aldehid", "Keton", "Alkohol", "Eter"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Teori evolusi melalui seleksi alam pertama kali dikemukakan secara komprehensif oleh...",
+        "options": ["Gregor Mendel", "Charles Darwin", "Jean-Baptiste Lamarck", "Alfred Wallace"], // Wallace juga penting
+        "correctAnswer": 1
+      },
+      {
+        "question": "Arah medan magnet di sekitar kawat lurus berarus listrik dapat ditentukan dengan kaidah...",
+        "options": ["Tangan kiri Fleming", "Tangan kanan", "Lenz", "Ampere"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Jika tekanan pada sistem kesetimbangan gas 2SO₂(g) + O₂(g) ⇌ 2SO₃(g) diperbesar, kesetimbangan akan bergeser ke...",
+        "options": ["Kiri (reaktan)", "Kanan (produk)", "Tidak bergeser", "Bergantung suhu"], // Ke arah jumlah mol gas lebih kecil
+        "correctAnswer": 1
+      },
+      {
+        "question": "Siklus Krebs (siklus asam sitrat) terjadi di bagian sel eukariotik yaitu...",
+        "options": ["Sitoplasma", "Matriks mitokondria", "Membran dalam mitokondria", "Retikulum endoplasma"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Efek Doppler menjelaskan perubahan frekuensi gelombang yang diterima pengamat akibat...",
+        "options": ["Perubahan amplitudo", "Gerak relatif sumber/pengamat", "Perubahan medium", "Interferensi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Nomor massa suatu atom adalah jumlah total...",
+        "options": ["Proton", "Elektron", "Proton dan elektron", "Proton dan neutron"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Mutasi genetik adalah perubahan permanen pada...",
+        "options": ["Urutan DNA", "Jumlah kromosom", "Struktur protein", "Membran sel"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Hukum Faraday tentang induksi elektromagnetik menyatakan bahwa GGL induksi sebanding dengan...",
+        "options": ["Kuat arus", "Fluks magnet", "Laju perubahan fluks magnet", "Hambatan"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Semakin kecil nilai pKa suatu asam, maka sifat asamnya...",
+        "options": ["Semakin kuat", "Semakin lemah", "Tidak berubah", "Menjadi basa"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Proses fotolisis (pemecahan molekul air) dalam fotosintesis terjadi pada...",
+        "options": ["Fotosistem I", "Fotosistem II", "Siklus Calvin", "Stroma"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Peristiwa interferensi konstruktif terjadi ketika dua gelombang bertemu dengan fase...",
+        "options": ["Berlawanan", "Sama", "90 derajat", "Acak"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Polietilena (plastik PE) termasuk jenis polimer...",
+        "options": ["Poliamida", "Poliester", "Polisakarida", "Poliadisi (dari alkena)"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Homeostasis adalah kemampuan organisme untuk mempertahankan...",
+        "options": ["Suhu tubuh", "Keseimbangan lingkungan internal", "Tekanan darah", "Denyut jantung"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Kapasitor menyimpan energi dalam bentuk medan...",
+        "options": ["Listrik", "Magnet", "Gravitasi", "Elektromagnetik"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Dalam reaksi redoks, zat yang mengalami oksidasi disebut...",
+        "options": ["Oksidator", "Reduktor", "Katalis", "Produk"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Jumlah kromosom pada sel somatik (tubuh) manusia normal adalah...",
+        "options": ["23 buah", "46 buah (23 pasang)", "44 buah", "48 buah"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teori relativitas khusus Einstein membahas hubungan antara ruang, waktu, dan gerak pada kecepatan...",
+        "options": ["Konstan", "Sangat tinggi (mendekati c)", "Rendah", "Berubah-ubah"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Fungsi katalis dalam reaksi kimia adalah...",
+        "options": ["Meningkatkan energi aktivasi", "Menurunkan energi aktivasi", "Mengubah ΔH reaksi", "Menambah jumlah produk"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Virus diklasifikasikan sebagai makhluk hidup atau benda mati karena...",
+        "options": ["Memiliki DNA/RNA", "Dapat bereproduksi", "Hanya bisa hidup dalam sel inang", "Memiliki membran sel"],
+        "correctAnswer": 2 // Argumen utama status ambigu-nya
+      },
+      {
+        "question": "Momen inersia suatu benda tegar bergantung pada...",
+        "options": ["Massa total dan bentuk (distribusi massa)", "Kecepatan sudut", "Momen gaya", "Percepatan sudut"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pada elektrolisis larutan NaCl dengan elektroda inert, di anoda akan dihasilkan gas...",
+        "options": ["H₂", "O₂", "Cl₂", "Na"], // Oksidasi Cl-
+        "correctAnswer": 2
+      },
+      {
+        "question": "Interaksi antara populasi yang berbeda dalam suatu komunitas disebut interaksi...",
+        "options": ["Intraspesifik", "Interspesifik", "Abiotik", "Genetik"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Resonansi bunyi pada tabung udara terjadi ketika panjang kolom udara merupakan kelipatan ganjil dari...",
+        "options": ["Panjang gelombang", "Setengah panjang gelombang", "Seperempat panjang gelombang", "Amplitudo"],
+        "correctAnswer": 2 // Untuk tabung tertutup sebelah
+      },
+      {
+        "question": "Isomer optik (enansiomer) memiliki sifat...",
+        "options": ["Titik didih berbeda", "Rumus molekul berbeda", "Memutar bidang polarisasi cahaya", "Struktur ikatan berbeda"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sel B dalam sistem imunitas adaptif berfungsi utama untuk menghasilkan...",
+        "options": ["Sitokin", "Antibodi", "Sel T Helper", "Fagositosis"],
+        "correctAnswer": 1
+      }
+    ],
+    "Bahasa Indonesia": [
+      {
+        "question": "Aliran kritik sastra yang menganalisis karya berdasarkan struktur internalnya (unsur intrinsik) adalah...",
+        "options": ["Strukturalisme", "Marxisme", "Feminisme", "Psikoanalisis"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Angkatan sastra Indonesia yang muncul sekitar tahun 1920-an dengan ciri khas puisi baru dan semangat kebangsaan adalah angkatan...",
+        "options": ["Balai Pustaka", "Pujangga Baru", "Angkatan '45", "Angkatan '66"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Gaya bahasa atau retorika yang menggunakan pertanyaan namun tidak memerlukan jawaban disebut...",
+        "options": ["Pertanyaan retoris", "Klimaks", "Antiklimaks", "Paralelisme"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Teori resepsi sastra menitikberatkan peran ... dalam pemaknaan karya sastra.",
+        "options": ["Pengarang", "Pembaca", "Teks", "Konteks sosial"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Majas yang menyatakan sesuatu dengan makna sebaliknya untuk menyindir disebut...",
+        "options": ["Ironi", "Sarkasme", "Sinisme", "Litotes"], // Ironi yang paling umum
+        "correctAnswer": 0
+      },
+      {
+        "question": "Struktur teks esai umumnya terdiri dari...",
+        "options": ["Pendahuluan, Isi (Argumentasi), Penutup", "Orientasi, Komplikasi, Resolusi", "Tesis, Antitesis, Sintesis", "Abstraksi, Argumen, Koda"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kritik sastra yang menghubungkan karya dengan kondisi sosial-politik masyarakatnya adalah pendekatan...",
+        "options": ["Sosiologis", "Psikologis", "Biografis", "Formalis"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Bahasa kiasan yang menggunakan lambang atau simbol untuk mewakili makna tertentu disebut...",
+        "options": ["Metafora", "Simbolik", "Alegori", "Personifikasi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Ilmu tentang tanda, termasuk tanda dalam bahasa dan sastra, disebut...",
+        "options": ["Semiotika", "Filologi", "Linguistik", "Hermeneutika"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Konsep 'differance' yang dikemukakan oleh Jacques Derrida berkaitan dengan aliran filsafat...",
+        "options": ["Strukturalisme", "Post-strukturalisme/Dekonstruksi", "Eksistensialisme", "Fenomenologi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Kajian intertekstualitas menganggap bahwa sebuah karya sastra selalu berkaitan atau merujuk pada...",
+        "options": ["Realitas sosial", "Biografi pengarang", "Karya-karya sastra lain", "Psikologi pembaca"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Sudut pandang orang ketiga serba tahu disebut juga sudut pandang...",
+        "options": ["Omniscient", "Terbatas (Limited)", "Orang pertama pelaku utama", "Orang pertama sampingan"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Ciri khas sastra postmodernisme antara lain...",
+        "options": ["Pementingan narasi besar", "Fragmentasi dan permainan intertekstual", "Kejelasan makna tunggal", "Struktur linear yang ketat"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Proses penafsiran makna teks, terutama teks-teks kuno atau sulit, disebut...",
+        "options": ["Hermeneutika", "Kritik teks", "Analisis wacana", "Stilistika"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Majas yang menyebutkan sebagian untuk mewakili keseluruhan (pars pro toto) atau sebaliknya (totum pro parte) adalah...",
+        "options": ["Metonimia", "Sinekdoke", "Eufemisme", "Paradoks"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teori mimesis dalam filsafat Plato dan Aristoteles memandang seni (termasuk sastra) sebagai...",
+        "options": ["Ekspresi jiwa seniman", "Tiruan (imitasi) kenyataan", "Struktur otonom", "Sarana komunikasi"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Karya sastra yang dianggap bermutu tinggi, berpengaruh, dan menjadi acuan dalam tradisi sastra disebut...",
+        "options": ["Kanon sastra", "Sastra populer", "Sastra marjinal", "Sastra kontemporer"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Kritik sastra feminis menganalisis representasi ... dalam karya sastra.",
+        "options": ["Kelas sosial", "Perempuan dan isu gender", "Konflik psikologis", "Struktur naratif"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Konsep 'langue' dan 'parole' dalam linguistik struktural dikemukakan oleh...",
+        "options": ["Ferdinand de Saussure", "Noam Chomsky", "Roman Jakobson", "Claude Lévi-Strauss"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Pendekatan kritik sastra yang menganalisis hubungan antara karya sastra dan lingkungan alam disebut...",
+        "options": ["Ekokritik", "Kritik Marxis", "Kritik Arketipal", "Kritik Resepsi"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Karya sastra yang meniru gaya karya lain dengan tujuan mengolok-olok atau memberi penghormatan disebut...",
+        "options": ["Parodi/Pastihe", "Alegori", "Satire", "Simbolisme"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Studi tentang struktur dan fungsi narasi dalam teks sastra disebut...",
+        "options": ["Stilistika", "Narratologi", "Semiotika", "Pragmatik"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Kajian sastra postkolonial menganalisis dampak ... terhadap karya sastra.",
+        "options": ["Globalisasi", "Kolonialisme dan imperialisme", "Modernisasi", "Perang Dunia"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Majas yang mengulang bunyi konsonan awal pada kata-kata yang berurutan disebut...",
+        "options": ["Asonansi", "Aliterasi", "Anafora", "Epifora"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teori sastra yang melihat karya sebagai ungkapan perasaan atau pemikiran pengarang disebut teori...",
+        "options": ["Mimetik", "Ekspresif", "Pragmatik", "Objektif"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Aturan atau norma kebahasaan yang dianggap baku atau standar dalam suatu masyarakat disebut...",
+        "options": ["Dialek", "Idiolek", "Ragam bahasa", "Kaidah/Kanun bahasa"],
+        "correctAnswer": 3
+      },
+      {
+        "question": "Pendekatan kritik sastra yang menggunakan teori Sigmund Freud atau Carl Jung untuk menganalisis tokoh atau pengarang adalah...",
+        "options": ["Kritik psikoanalitis", "Kritik sosiologis", "Kritik biografis", "Kritik formalis"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Konsep 'mitologi' dalam kajian semiotika Roland Barthes merujuk pada...",
+        "options": ["Cerita dewa-dewi kuno", "Makna konotatif atau ideologi yang tersembunyi dalam tanda-tanda budaya", "Struktur naratif mitos", "Asal-usul bahasa"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teks digital yang memungkinkan pembaca berpindah antar bagian teks melalui tautan (link) disebut...",
+        "options": ["Linear text", "Hypertext", "Metafiction", "E-book"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Teori Queer dalam kajian sastra mempertanyakan norma-norma terkait...",
+        "options": ["Ras dan etnisitas", "Kelas sosial", "Identitas gender dan seksualitas", "Usia dan generasi"],
+        "correctAnswer": 2
+      }
+    ],
+    "Bahasa Inggris": [
+      {
+        "question": "The idiom 'break a leg' is commonly used to wish someone...",
+        "options": ["Bad luck", "Good luck, especially before a performance", "To be careful", "To get injured"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Choose the correct passive voice: 'Someone wrote this book.' -> 'This book _____.'",
+        "options": ["wrote", "was written", "is written", "has written"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A synonym for 'meticulous' is...",
+        "options": ["Careless", "Thorough and precise", "Hasty", "Disorganized"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Complete the first conditional sentence: If it rains tomorrow, we _____ the picnic.",
+        "options": ["cancel", "will cancel", "canceled", "would cancel"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'benevolent' (kind and well-meaning) is...",
+        "options": ["Generous", "Malevolent", "Charitable", "Friendly"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "If something is 'ubiquitous', it seems to be...",
+        "options": ["Very rare", "Everywhere", "Unique", "Well-hidden"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Choose the correct verb: Neither the students nor the teacher _____ ready for the exam.",
+        "options": ["is", "are", "was", "were"], // Verb agrees with the subject closer (teacher)
+        "correctAnswer": 2 // Assuming past tense context, otherwise 'is'
+      },
+      {
+        "question": "The gerund form (-ing form used as a noun) of the verb 'swim' is...",
+        "options": ["Swam", "Swimming", "Swum", "To swim"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A synonym for 'ephemeral' (lasting for a very short time) is...",
+        "options": ["Permanent", "Transitory", "Eternal", "Enduring"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Complete the third conditional sentence: She _____ have passed the test if she had studied harder.",
+        "options": ["will", "would", "can", "shall"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A 'euphemism' is a mild or indirect word substituted for one considered too harsh, like 'passed away' instead of 'died'.",
+        "options": ["A harsh insult", "A mild or indirect expression", "A direct order", "A factual statement"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'diligent' (hardworking) is...",
+        "options": ["Industrious", "Lazy", "Assiduous", "Persistent"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Reported speech: He said, 'I am tired.' -> He said that he _____ tired.",
+        "options": ["is", "was", "has been", "will be"], // Tense shift
+        "correctAnswer": 1
+      },
+      {
+        "question": "A 'paradox' is a statement that, despite sound reasoning, leads to a conclusion that seems self-contradictory.",
+        "options": ["A clear fact", "A self-contradictory statement", "A logical argument", "A simple question"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A synonym for 'resilient' (able to withstand or recover quickly) is...",
+        "options": ["Fragile", "Tough or flexible", "Weak", "Vulnerable"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Complete the subjunctive mood sentence: I wish I _____ taller.",
+        "options": ["am", "were", "was", "will be"], // Subjunctive uses 'were'
+        "correctAnswer": 1
+      },
+      {
+        "question": "'Hyperbole' is the use of _____ for emphasis or effect.",
+        "options": ["Understatement", "Exaggeration", "Literal language", "Simple words"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'obscure' (not clear or plain) is...",
+        "options": ["Vague", "Clear or distinct", "Ambiguous", "Hidden"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Choose the correct verb: The news _____ bad today.", // News is singular
+        "options": ["is", "are", "were", "have been"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Someone who is 'pragmatic' is concerned with...",
+        "options": ["Ideals and theories", "Practical results and facts", "Dreams and fantasies", "Abstract concepts"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A synonym for 'quintessential' (representing the most perfect example) is...",
+        "options": ["Atypical", "Archetypal or typical", "Unusual", "Flawed"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Complete the future perfect sentence: By the time we get there, the concert _____.",
+        "options": ["starts", "will have started", "started", "is starting"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "'Satire' uses humor, irony, or exaggeration to criticize people's stupidity or vices.",
+        "options": ["Flattery", "Criticism through humor/irony", "Direct praise", "Serious analysis"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'verbose' (using more words than needed) is...",
+        "options": ["Wordy", "Concise or brief", "Talkative", "Long-winded"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Choose the correct verb: Each of the students _____ responsible for their own work.", // Each is singular
+        "options": ["is", "are", "were", "have been"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "To be 'ambivalent' means to have...",
+        "options": ["Strong certainty", "Mixed or contradictory feelings", "Clear decision", "Firm belief"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "A synonym for 'tenacious' (keeping a firm hold) is...",
+        "options": ["Weak", "Persistent or determined", "Yielding", "Giving up"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Complete the future passive sentence: The project _____ by next Friday.",
+        "options": ["will finish", "will be finished", "finished", "is finishing"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "'Irony' is the expression of meaning by using language that normally signifies the opposite.",
+        "options": ["Saying exactly what you mean", "Saying the opposite of what you mean", "Being literal", "Being straightforward"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "The antonym of 'altruistic' (selfless concern for others) is...",
+        "options": ["Generous", "Selfish", "Charitable", "Kind"],
+        "correctAnswer": 1
+      }
+    ]
+  }
+}
